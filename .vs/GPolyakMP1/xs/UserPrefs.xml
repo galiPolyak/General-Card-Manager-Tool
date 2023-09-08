@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{31654F3D-1D36-4F9E-80C0-B602CD54D789}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GPolyakMP1/Program.cs">
+    <Files>
+      <File FileName="GPolyakMP1/Program.cs" Line="14" Column="2" />
+      <File FileName="GPolyakMP1/Deck.cs" />
+      <File FileName="GPolyakMP1/Card.cs" />
+      <File FileName="GPolyakMP1/Hand.cs" Line="4" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GPolyakMP1" expanded="True">
+            <Node name="GPolyakMP1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GPolyakMP1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

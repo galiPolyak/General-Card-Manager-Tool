@@ -1,0 +1,6 @@
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/GPolyakMP1/GPolyakMP1/bin/Debug/GPolyakMP1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/GPolyakMP1/GPolyakMP1/bin/Debug/GPolyakMP1.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/GPolyakMP1/GPolyakMP1/obj/Debug/GPolyakMP1.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/GPolyakMP1/GPolyakMP1/obj/Debug/GPolyakMP1.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/GPolyakMP1/GPolyakMP1/obj/Debug/GPolyakMP1.exe
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/GPolyakMP1/GPolyakMP1/obj/Debug/GPolyakMP1.pdb

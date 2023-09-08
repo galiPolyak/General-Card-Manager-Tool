@@ -1,0 +1,15 @@
+2C, 5C, 8C, TC, JC, KC, 6D, 9D, QD, AD, TS, JS, AS
+Cards Dealt:                       Points
+Clubs    2 5 8 T J K                  4
+Diamonds 6 9 Q A                      6
+Hearts                                3
+Spades   T J A                        5
+                               Total 18
+
+AC, 5D, 7D, 8D, KD, AD, AH, 4S, 7S, TS, QS, KS, AS
+Cards Dealt:                       Points
+Clubs    A                            6
+Diamonds 5 7 8 K A                    7
+Hearts   A                            6
+Spades   4 7 T Q K A                  9
+                               Total 28
